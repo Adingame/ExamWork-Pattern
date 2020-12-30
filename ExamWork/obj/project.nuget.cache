@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2gjywPUNj2XAzvQ8JG5Lona2KklKOERZ7SqD71yn0DLGZqv8ecRPGR92VkYOvHc6uwufv6E3mq+MTXnqHQL+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TikTaqTo\\source\\repos\\ExamWork\\ExamWork\\ExamWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TikTaqTo\\.nuget\\packages\\oracle.manageddataaccess\\19.10.0\\oracle.manageddataaccess.19.10.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Oracle.ManagedDataAccess 19.10.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Oracle.ManagedDataAccess",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

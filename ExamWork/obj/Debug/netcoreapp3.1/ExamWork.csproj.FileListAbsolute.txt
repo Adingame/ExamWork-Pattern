@@ -1,0 +1,4 @@
+C:\Users\TikTaqTo\source\repos\ExamWork\ExamWork\bin\Debug\netcoreapp3.1\ExamWork.exe
+C:\Users\TikTaqTo\source\repos\ExamWork\ExamWork\obj\Debug\netcoreapp3.1\ExamWork.csprojAssemblyReference.cache
+C:\Users\TikTaqTo\source\repos\ExamWork\ExamWork\obj\Debug\netcoreapp3.1\ExamWork.AssemblyInfoInputs.cache
+C:\Users\TikTaqTo\source\repos\ExamWork\ExamWork\obj\Debug\netcoreapp3.1\ExamWork.AssemblyInfo.cs
